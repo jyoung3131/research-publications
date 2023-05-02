@@ -1,4 +1,4 @@
-# Research Preprints for Jeffrey Young
+# Jeffrey Young - Research Preprints
 
 Publications and Presentations by Dr. Jeffrey Young, currently a research scientist at Georgia Tech. 
 
