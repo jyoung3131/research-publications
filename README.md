@@ -76,3 +76,8 @@ We present an overview of the motivations and design of the initial Rogues Galle
 
 ## 2016
 
+| Presenter | Title | Publication Type | Date | Venue | Publication Links |
+| ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
+| Jeffrey Young | "" | Paper | 11/15/2016 | PMES 2016 | [[Paper]]() [[Abstract]](#pmes16) |
+
+<a id="pmes16">**Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures**</a>
