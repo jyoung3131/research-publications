@@ -78,6 +78,10 @@ We present an overview of the motivations and design of the initial Rogues Galle
 
 | Presenter | Title | Publication Type | Date | Venue | Publication Links |
 | ---------------------------------- | ------------ | ---------- | ------------ | -------------|-------------------|
-| Jeffrey Young | "" | Paper | 11/15/2016 | PMES 2016 | [[Paper]]() [[Abstract]](#pmes16) |
+| Jeffrey Young | "Finding Balance in the post-Moore’s Law Era" | Paper | 11/15/2016 | PMES 2016 | [[Paper]](https://github.com/jyoung3131/research-publications/blob/a2c888504bf8b511866da6d9929415129ca1e1d2/publications/2016/young_vuduc_finding_balance_post_moores_era_pmes_2016.pdf) [[Abstract]](#pmes16) |
 
-<a id="pmes16">**Wrangling Rogues: A Case Study on Managing Experimental Post-Moore Architectures**</a>
+<a id="pmes16">**Finding Balance in the post-Moore’s Law Era**</a>
+
+**Authors:** Jeffrey Young, Richard Vuduc
+
+Recent developments in 3D stacked memory technologies and the promise of fast optical interconnects have offered new possibilities for balancing communication and computation time in future supercomputers. However, the end of Moore’s Law means that future architectural improvements will become more limited in scope. We theoretically evaluate a proposal that balanced “post-Moore’s” systems will be most achievable via a combination of small, lightweight processors, high-bandwidth memories with optimized “horizontal” communication, and network-oriented algorithm codesign.
